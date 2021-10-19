@@ -1,0 +1,24 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	background-color: whitesmoke;
+	border-radius: 5px;
+	border-color: yellow;
+	border-style: ridge;
+	border-width: 10px;
+}
+
+button {
+	background-color: lightgreen;
+	cursor: pointer;
+}
